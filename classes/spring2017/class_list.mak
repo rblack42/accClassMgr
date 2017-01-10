@@ -1,0 +1,2 @@
+SECTIONS = cosc1315-001 cosc1315-003 cosc2325-001 cosc2325-002
+
